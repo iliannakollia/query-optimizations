@@ -1,0 +1,1 @@
+The project deals with optimizations for answering SPARQL-OWL Queries
